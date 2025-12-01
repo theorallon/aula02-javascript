@@ -56,3 +56,33 @@ Estrutura Ternária
     console.log(status);
 
 */
+
+/*
+Estrutura "e"
+console.log(true && true)
+console.log(true && false)
+console.log(false && true)
+console.log(false && false)
+*/
+
+/*
+Estrutura "ou"
+console.log(true || true)
+console.log(true || false)
+console.log(false || true)
+console.log(false || false)
+*/
+
+/*
+Estrutura "e" 
+console.log(true && "Aprovado") //Aprovado
+console.log(false && "Aprovado") //false
+console.log(null && "Aprovado") //null
+*/
+
+/*
+Estrutura "ou"
+console.log(true || "Aprovado") //true
+console.log(false || "Aprovado") //Aprovado
+console.log(null || "Aprovado") //Aprovado
+*/
